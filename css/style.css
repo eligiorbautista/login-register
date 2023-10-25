@@ -1,29 +1,23 @@
-/* -------------------- Login Container -------------------- */
 .box-area {
     box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
     padding: 20px;
 }
-
 .header-text {
     font-size: 1.8rem;
+    font-weight: 500;
 }
 input {
-    border-radius: 0px !important; 
+    border-radius: 0px !important;
 }
-
 .form-check {
     margin-top: 10px;
 }
-
 .forgot {
     margin-top: 10px;
 }
-
+.already {
+    margin-top: 10px;
+}
 .btn {
     border-radius: 0px;
 }
-/* -------------------- Right Box -------------------- */
-
-/* -------------------- Custom Placeholder -------------------- */
-
-/* -------------------- For Small Screens -------------------- */
